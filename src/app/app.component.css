@@ -1,0 +1,83 @@
+  .mat-stepper-horizontal {
+    margin-top: 8px;
+  }
+  
+  .mat-mdc-form-field {
+    margin-top: 16px;
+  }
+
+  mat-form-field, section {
+      display: flex;
+      flex-direction: column;
+      margin:1rem auto;
+      max-width: 500px;
+  }
+
+  section{
+    text-align: center;
+  }
+
+  form p{
+    display: flex;
+    flex-direction: column;
+    margin:1rem auto;
+    max-width: 500px;
+    margin-top: -24px;
+    color: red;
+  }
+
+  .finalizar{
+    display: flex;
+    flex-direction: column;
+    margin:1rem auto;
+    max-width: 300px;
+    margin-top: 40px;
+  }
+
+  h2{
+    display: flex;
+    flex-direction: column;
+    margin:1rem auto;
+    max-width: 500px;
+  }
+
+  section p{
+    color: red;
+    margin: 0;
+  }
+
+  mat-toolbar{
+    background-color: rgb(94, 4, 159);
+  }
+
+  mat-toolbar p{
+    color: white;
+    display: block;
+    margin:1rem auto;
+  }
+
+  .mat-icon-rtl-mirror{
+    background-image: url("../assets/img/icons8-facebook-nuevo-48.png");
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+  }
+
+  .mat-icon-rtl-mirror-2{
+    background-image: url("../assets/img/icons8-twitterx-48.png");
+    background-size: cover;
+    width: 30px;
+    height: 30px;    
+  }
+
+  .mat-icon-rtl-mirror-3{
+    background-image: url("../assets/img/icons8-instagram-48.png");
+    background-size: cover;
+    width: 30px;
+    height: 30px;    
+  }
+
+  .boton{
+    margin-left: 40px;
+    margin-top: 20px;
+  }
